@@ -339,4 +339,4 @@ Next: [IdP]
 [3]: https://wiki.shibboleth.net/confluence/display/SHIB2/NativeSPLooping
 [keys]: https://github.com/jsbruglie/cripto/tree/dev/project/SP/keys
 [Notes]: https://github.com/jsbruglie/cripto/blob/dev/project/SP/README.md#notes
-[IdP]: https://github.com/jsbruglie/cripto/blob/dev/project/IdP/README.md
+[IdP]: https://github.com/Mrrvm/cripto/tree/dev/project#5-idp
